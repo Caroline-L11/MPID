@@ -1,3 +1,8 @@
+'''
+* @name: AGFmodule.py
+* @description: Implementation of AGF
+'''
+
 import torch
 import torch.nn as nn
 import torch.nn.functional as F
@@ -5,10 +10,6 @@ from einops import repeat
 from torch import Tensor
 from torch.autograd import Variable
 
-'''
-* @name: AGFmodule.py
-* @description: Implementation of AGF
-'''
 class AGFmodule(nn.Module):
     def __init__(self, n_heads, x_t, x_a, output, seq_len):
         super(AGFmodule, self).__init__()
