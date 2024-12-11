@@ -5,7 +5,7 @@
 ## About MPID
 
 MPID (Modality-Preserving and Interaction-Driven Fusion Network) is a novel approach to multimodal sentiment analysis that aims to effectively integrate and leverage the unique characteristics of different data modalities, such as text, audio, and visual information.
-![image](https://github.com/user-attachments/assets/0d4cbb3f-3cb8-4117-8012-be0ed95a1b4f)
+![image](https://github.com/user-attachments/assets/6fa0ce7a-69fb-44b0-8695-0f1f8b93627e)
 
 >### Abstract
 
